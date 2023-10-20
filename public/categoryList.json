@@ -1,0 +1,63 @@
+[
+    {
+      "_id": 1,
+      "categoryName": "HouseHold",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 2,
+      "categoryName": "Kids & Mom",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 3,
+      "categoryName": "Electronics",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 4,
+      "categoryName": "Lifestyle",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 5,
+      "categoryName": "Foods",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 6,
+      "categoryName": "Kitchen",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 7,
+      "categoryName": "Cosmetics",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 8,
+      "categoryName": "Health",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 9,
+      "categoryName": "Clothing",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 10,
+      "categoryName": "Education",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 11,
+      "categoryName": "Service",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    },
+    {
+      "_id": 12,
+      "categoryName": "Hot Offer",
+      "Image": "https://apii.lazma.com/public/category/Z_c8Z64P7hlNoZwtHP0.jpg"
+    }
+  ]
+  
